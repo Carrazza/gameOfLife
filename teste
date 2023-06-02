@@ -1,0 +1,104 @@
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "url",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "status": 200,
+  "length": 121
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/javax.faces.resource/theme.css.jsf;jsessionid=579F5FBA8997906AB571FF426BC742F2?ln=primefaces-saga&v=12.0.0",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/javax.faces.resource/primeicons/primeicons.css.jsf;jsessionid=579F5FBA8997906AB571FF426BC742F2?ln=primefaces&v=12.0.0",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/javax.faces.resource/components.css.jsf;jsessionid=579F5FBA8997906AB571FF426BC742F2?ln=primefaces&v=12.0.0",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/resources/css/geral.css",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=113850",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "http://receita.economia.gov.br/interface/cidadao/irpf/2020/download/download-do-programa",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "form",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "status": 0,
+  "length": 0
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "url",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/javax.faces.resource/primeicons/primeicons.css.jsf;jsessionid=579F5FBA8997906AB571FF426BC742F2?ln=primefaces&v=12.0.0",
+  "status": 200,
+  "length": 35
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "url",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/javax.faces.resource/theme.css.jsf;jsessionid=579F5FBA8997906AB571FF426BC742F2?ln=primefaces-saga&v=12.0.0",
+  "status": 200,
+  "length": 1
+}
+{
+  "input": "https://portalesocial.dpsp.io/InformeRendimentos/",
+  "source": "body",
+  "type": "url",
+  "output": "https://portalesocial.dpsp.io/InformeRendimentos/javax.faces.resource/components.css.jsf;jsessionid=579F5FBA8997906AB571FF426BC742F2?ln=primefaces&v=12.0.0",
+  "status": 200,
+  "length": 175
+}
